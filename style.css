@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=DotGothic16&family=Lobster&family=Noto+Sans+JP:wght@100&family=Oi&display=swap');
+
+body{
+    background-image: url("img/ray.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(50, 204, 117);
+    border-bottom: solid 5px rgb(196, 68, 196);
+    width: 300px;
+}
+
+.rojo {
+    color: rgb(167, 0, 0);
+}
+
+.verde {
+    color: rgb(94, 228, 94);
+}
+
+.azul {
+    color: blue;
+}
+
+.morado {
+    color: purple;
+}
+
+.amarillo { 
+    color: rgb(166, 226, 26);
+}
+
+h2 {
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.akaya {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.gothic {
+    font-family: 'DotGothic16', sans-serif;
+}
+
+.noto {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.oi {
+    font-family: 'Oi', cursive;
+    font-weight: 50;
+}
+
+.nombre {
+    font-size: 60px;
+    font-weight: bold;
+} 
+
+.cancion {
+    border-top: 2px dotted greenyellow;
+    border-bottom: 2px dotted greenyellow; ;
+}
+
+.frases {
+    color: rgb(233, 4, 4);
+    font-weight: 600;
+}
